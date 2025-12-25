@@ -634,4 +634,7 @@
   .wg-location.style-1 .widget-tabs .content {
     padding: 17px;
   }
+  .social {
+    display: none;
+  }
 }
