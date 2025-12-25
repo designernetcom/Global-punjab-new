@@ -612,4 +612,26 @@
     padding-top: 60px;
     padding-bottom: 60px;
   }
+  .page-menu1-wrap .right .title {
+    font-size: 15px;
+  }
+  .reservation {
+    padding: 20px 0;
+  }
+  .reservation .content .book-form {
+    padding: 30px;
+  }
+  .wg-map .bottom {
+    padding-top: 50px;
+    padding-bottom: 0;
+  }
+  .wg-quetion {
+    padding: 20px 0;
+  }
+  .wg-location.style-1 {
+    padding-top: 20px;
+  }
+  .wg-location.style-1 .widget-tabs .content {
+    padding: 17px;
+  }
 }
