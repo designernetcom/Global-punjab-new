@@ -2609,7 +2609,7 @@ ul.list-content li p.text {
 
 @media screen and (max-width: 800px) {
   .header-2 .header-left {
-    padding: 24px 55px 24px 7px;
+    padding: 10px;
   }
 }
 
