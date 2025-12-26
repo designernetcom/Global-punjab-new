@@ -4368,10 +4368,10 @@ a.mapboxgl-ctrl-logo {
 }
 
 .services-detail-item .content {
-  position: absolute;
+  /* position: absolute;
   left: 24px;
   right: 25px;
-  bottom: -66px;
+  bottom: -66px; */
   background-color: #182125;
   padding: 10px;
   text-align: center;
@@ -5231,7 +5231,7 @@ a.mapboxgl-ctrl-logo {
 }
 .content {
   /* background: #ffffff; */
-  padding: 55px 0;
+  padding: 120px 0;
   font-size: 20px;
 }
 .outlet_div {
@@ -5266,4 +5266,7 @@ a.mapboxgl-ctrl-logo {
 }
 .services-detail-content p {
   color: #000;
+}
+.catering_service {
+  padding: 40px;
 }

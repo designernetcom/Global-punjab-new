@@ -637,4 +637,7 @@
   .social {
     display: none;
   }
+  .reservation .video {
+    width: 100%;
+  }
 }
