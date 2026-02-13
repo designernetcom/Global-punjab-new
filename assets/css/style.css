@@ -2570,10 +2570,16 @@ ul.list-content li p.text {
   height: 8px;
   z-index: 10000;
   background-color: #c6ac83;
-  -webkit-transition: width 0.5s ease-in-out, height 0.5s ease-in-out,
-    margin 0.5s ease-in-out, opacity 0.5s ease-in-out;
-  transition: width 0.5s ease-in-out, height 0.5s ease-in-out,
-    margin 0.5s ease-in-out, opacity 0.5s ease-in-out;
+  -webkit-transition:
+    width 0.5s ease-in-out,
+    height 0.5s ease-in-out,
+    margin 0.5s ease-in-out,
+    opacity 0.5s ease-in-out;
+  transition:
+    width 0.5s ease-in-out,
+    height 0.5s ease-in-out,
+    margin 0.5s ease-in-out,
+    opacity 0.5s ease-in-out;
 }
 
 .tf-mouse-inner.mouse-hover {
@@ -2645,7 +2651,8 @@ ul.list-content li p.text {
 }
 
 .footer-1 {
-  background: linear-gradient(rgb(0 0 0), rgb(0 0 0 / 76%)),
+  background:
+    linear-gradient(rgb(0 0 0), rgb(0 0 0 / 76%)),
     url(../images/customers-say-bg.jpg) no-repeat center center / cover;
 }
 
@@ -2753,7 +2760,9 @@ ul.list-content li p.text {
   pointer-events: none;
   opacity: 0.6;
   transform: scale(1);
-  transition: opacity 1.2s ease-out, transform 1.2s ease-out;
+  transition:
+    opacity 1.2s ease-out,
+    transform 1.2s ease-out;
 }
 
 @media screen and (max-width: 767px) {
@@ -3416,26 +3425,28 @@ ul.list-content li p.text {
   background-color: white;
   padding: 60px 0;
 }
-.reservation .content {
+/* .reservation .content {
   width: 50%;
   padding: 0;
-}
+} */
 .reservation .content .book-form {
   border-radius: 0;
   padding: 52px;
 }
-.reservation .video {
+/* .reservation .video {
   width: 50%;
-}
+} */
 .about_text .all-chefs {
   padding: 10px 0;
 }
 .hero-header {
-  background: linear-gradient(rgba(15, 23, 43, 0.9), rgba(15, 23, 43, 0.9)),
+  background:
+    linear-gradient(rgba(15, 23, 43, 0.9), rgba(15, 23, 43, 0.9)),
     url(/assets/images/gallery/baner/7.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-bottom: 25px;
 }
 
 .hero-header img {
@@ -3449,7 +3460,8 @@ ul.list-content li p.text {
 }
 .book-form1 {
   /* opacity: 0.5; */
-  background: linear-gradient(rgb(249 177 1 / 39%), rgb(28 27 23 / 84%)),
+  background:
+    linear-gradient(rgb(249 177 1 / 39%), rgb(28 27 23 / 84%)),
     url(/assets/images/gallery/gb-special/DRUMS\ OF\ HEAVEN\ LOLLYPOP.jpg);
   background-position: center center;
   background-repeat: no-repeat;
@@ -3529,7 +3541,9 @@ ul.list-content li p.text {
   font-size: 20px;
   padding: 7px 10px;
   /* box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1); */
-  box-shadow: rgb(249 177 1) 0px 1px 2px 0px, rgb(249 177 1) 0px 2px 6px 2px;
+  box-shadow:
+    rgb(249 177 1) 0px 1px 2px 0px,
+    rgb(249 177 1) 0px 2px 6px 2px;
   background-color: #1c1b17;
 
   /* margin-top: 6px; */
@@ -3539,7 +3553,9 @@ ul.list-content li p.text {
   font-size: 20px;
   padding: 7px 10px;
   /* box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1); */
-  box-shadow: rgb(249 177 1) 0px 1px 2px 0px, rgb(249 177 1) 0px 2px 6px 2px;
+  box-shadow:
+    rgb(249 177 1) 0px 1px 2px 0px,
+    rgb(249 177 1) 0px 2px 6px 2px;
   background-color: #1c1b17;
 }
 .social .fa-phone {
@@ -3547,4 +3563,18 @@ ul.list-content li p.text {
 }
 .social .fa-brands {
   padding: 13px 35px 13px 20px;
+}
+.table_div {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.book-form .description {
+  font-size: 17px;
+  text-align: center;
+  margin-bottom: 35px;
+  line-height: 30px;
+  color: #e7a502;
+}
+.catering_service {
+  padding: 50px 0;
 }
