@@ -1521,7 +1521,7 @@ a:focus {
 .menu-primary-menu .sub-menu {
   position: absolute;
   background: #fff;
-  min-width: 220px;
+  min-width: 271px;
   left: 0%;
   top: 110%;
   border-radius: 8px;
@@ -3663,6 +3663,9 @@ ul.list-content li p.text {
   }
   #site-logo img {
     width: 150px;
+  }
+  .flat-accordion .flat-toggle .toggle-title {
+    line-height: 20px;
   }
 }
 .wg-menu-item .items-center a {
