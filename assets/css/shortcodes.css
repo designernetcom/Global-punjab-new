@@ -113,7 +113,7 @@
   height: 4px;
   border-radius: 50%;
   transform: translateY(-50%);
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .meta .meta-item.social::before {
@@ -140,7 +140,7 @@
   bottom: -20px;
   width: 103px;
   height: 1px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .wg-blog .title::before {
@@ -158,7 +158,7 @@
 }
 
 .wg-blog .title a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .wg-blog p {
@@ -167,7 +167,7 @@
 
 .wg-blockquote {
   padding: 51px 70px 40px 60px;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   position: relative;
   margin-bottom: 87px;
   text-align: center;
@@ -180,7 +180,7 @@
   bottom: -14px;
   width: 100%;
   height: 1px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .wg-blockquote blockquote {
@@ -201,13 +201,13 @@
   bottom: -26px;
   left: 50%;
   transform: translateX(-32px);
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .wg-blockquote cite {
   font-size: 15px;
   line-height: 26px;
-  color: #c6ac83;
+  color: #b5940f;
   font-family: "DM Sans";
   text-transform: uppercase;
   margin-top: 18px;
@@ -267,7 +267,7 @@
 
 .wg-pagination ul li:hover a,
 .wg-pagination ul li.active a {
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 /* main-sidebar */
@@ -280,7 +280,7 @@
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   margin-bottom: 30px;
 }
 
@@ -296,7 +296,7 @@
   font-size: 17px;
   line-height: 26px;
   font-weight: 600;
-  color: #c6ac83;
+  color: #b5940f;
   font-style: italic;
   letter-spacing: 1px;
   margin-bottom: 1px;
@@ -312,7 +312,7 @@
 }
 
 .avt .info .name:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .avt .info p {
@@ -334,7 +334,7 @@ form.form-search button {
   padding: 13px 14px;
   width: 48px;
   height: 48px;
-  color: #c6ac83;
+  color: #b5940f;
   background-color: #182125;
 }
 
@@ -348,7 +348,7 @@ form.form-search button {
   line-height: 24px;
   font-weight: 600;
   text-transform: uppercase;
-  color: #c6ac83;
+  color: #b5940f;
   letter-spacing: 1px;
   padding: 19px 22px 17px;
   background-color: #182125;
@@ -372,7 +372,7 @@ form.form-search button {
 }
 
 .sidebar-item.category ul li a:hover {
-  color: #c6ac83;
+  color: #b5940f;
   padding-left: 17px;
 }
 
@@ -383,7 +383,7 @@ form.form-search button {
   height: 1px;
   top: 9px;
   left: 1px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -425,12 +425,12 @@ form.form-search button {
 }
 
 .recent-item .name a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .recent-item p {
   font-size: 13px;
-  color: #c6ac83;
+  color: #b5940f;
   letter-spacing: 0.3px;
 }
 
@@ -460,13 +460,13 @@ form.form-search button {
   display: flex;
   align-items: center;
   font-family: "DM Sans";
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   color: #fff;
   background-color: transparent;
 }
 
 .sidebar-item.tag ul li a:hover {
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .sidebar-item.newletters .content {
@@ -557,7 +557,7 @@ form.form-search button {
   height: 36px;
   border-radius: 50%;
   background-color: transparent;
-  border: 1px solid #f9b101;
+  border: 1px solid #b5940f;
   color: #fff;
   font-size: 13px;
   display: flex;
@@ -566,7 +566,7 @@ form.form-search button {
 }
 
 .widget-social ul li a:hover {
-  background-color: #f9b101;
+  background-color: #b5940f;
 }
 
 .wg-blog .image .box-calender {
@@ -585,7 +585,7 @@ form.form-search button {
 
 .box-calender .calender-day {
   font-size: 45px;
-  color: #c6ac83;
+  color: #b5940f;
   font-weight: 700;
   padding-bottom: 12px;
   border-bottom: 1px solid #32393a;
@@ -805,7 +805,7 @@ form.form-search button {
   font-size: 15px;
   line-height: 28px;
   font-family: "DM Sans";
-  color: #c6ac83;
+  color: #b5940f;
   letter-spacing: 1.2px;
 }
 
@@ -849,7 +849,7 @@ form.form-search button {
   height: 68px;
   border-radius: 50%;
   overflow: hidden;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
 }
 
 .wg-comment .author .name {
@@ -929,7 +929,7 @@ form.form-search button {
   font-size: 30px;
   font-style: italic;
   line-height: 32px;
-  color: #f9b101;
+  color: #b5940f;
   letter-spacing: 0.6px;
 }
 
@@ -974,7 +974,7 @@ form.form-search button {
 }
 
 .page-title .content.text2 a {
-  margin-left: auto;
+  /* margin-left: auto; */
 }
 
 .page-title .content.text1 {
@@ -1084,7 +1084,7 @@ form.form-search button {
   top: 32px;
   width: 45px;
   height: 2px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 /* wg-about-us */
@@ -1148,9 +1148,9 @@ form.form-search button {
 }
 
 .box-icon .icon {
-  width: 129px;
-  height: 129px;
-  border-radius: 50%;
+  /* width: 129px;
+  height: 129px; */
+  border-radius: 100%;
   background-color: #1c262a;
   display: flex;
   align-items: center;
@@ -1159,14 +1159,16 @@ form.form-search button {
   margin-bottom: 32px;
   position: relative;
 }
-
-.box-icon .icon::after {
+.icon img:hover {
+  border: 2px solid #b5940f;
+}
+/* .box-icon .icon::after {
   position: absolute;
   content: "";
   border-radius: 50%;
-  width: 157px;
-  height: 157px;
-  border: 1px solid #c6ac83;
+  width: 100%;
+  height: 500px;
+  border: 1px solid #b5940f;
   opacity: 0;
   visibility: hidden;
   transform: scale(1.1);
@@ -1175,7 +1177,7 @@ form.form-search button {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-}
+} */
 
 .box-icon .icon:hover::after {
   opacity: 1;
@@ -1197,7 +1199,7 @@ form.form-search button {
 }
 
 .box-icon .title a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .box-icon p {
@@ -1234,7 +1236,7 @@ form.form-search button {
   height: 72px;
   border-radius: 50%;
   background-color: #fff;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1243,7 +1245,7 @@ form.form-search button {
 }
 
 .video-wrap .icon i {
-  color: #c6ac83;
+  color: #b5940f;
   font-size: 24px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -1253,7 +1255,7 @@ form.form-search button {
 }
 
 .video-wrap .icon:hover i {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .popup-youtube {
@@ -1268,7 +1270,7 @@ form.form-search button {
   top: 0;
   left: 0;
   border-radius: 50%;
-  background: #c6ac83;
+  background: #b5940f;
   animation: playvideo 2.5s ease-in-out infinite;
 }
 
@@ -1393,7 +1395,7 @@ form.form-search button {
 }
 
 .box-event .content .icon {
-  color: #c6ac83;
+  color: #b5940f;
   font-size: 78px;
   margin-bottom: 8px;
   opacity: 0;
@@ -1432,7 +1434,7 @@ form.form-search button {
   content: "";
   width: 8px;
   height: 8px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   transform: translateY(-50%) rotate(45deg);
   top: 49%;
   right: -23px;
@@ -1443,7 +1445,7 @@ form.form-search button {
 }
 
 .box-event .content .title a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .box-event .content p {
@@ -1528,7 +1530,7 @@ form.form-search button {
 }
 
 .testimonial-item .title a {
-  color: #c6ac83;
+  color: #b5940f;
   position: relative;
 }
 
@@ -1537,7 +1539,7 @@ form.form-search button {
   content: "";
   width: 100%;
   height: 2px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   bottom: 3px;
   left: 0;
 }
@@ -1558,7 +1560,7 @@ form.form-search button {
 
 .rating {
   font-size: 24px;
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .rating i {
@@ -1579,7 +1581,7 @@ form.form-search button {
 }
 
 .testimonial-item .author a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .style-arrow-default {
@@ -1595,7 +1597,7 @@ form.form-search button {
 .style-arrow-default::after {
   content: "\e907" !important;
   font-family: "icomoon" !important;
-  color: #c6ac83 !important;
+  color: #b5940f !important;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -1701,7 +1703,7 @@ form.form-search button {
   right: 37px;
   top: -17px;
   bottom: -17px;
-  border: 1px solid #f9b101;
+  border: 1px solid #b5940f;
   z-index: 1;
 }
 
@@ -1746,7 +1748,7 @@ form.form-search button {
   left: -1px;
   width: 100%;
   height: 3px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .widget-content-tab {
@@ -1761,7 +1763,7 @@ form.form-search button {
   font-weight: 600;
   font-size: 17px;
   line-height: 30px;
-  color: #c6ac83;
+  color: #b5940f;
   letter-spacing: 1px;
   text-transform: capitalize;
 }
@@ -1790,7 +1792,7 @@ form.form-search button {
 .our-menu {
   padding-top: 50px;
   padding-bottom: 50px;
-  background: white;
+  background: #ffffff;
 }
 
 .our-menu .heading-section .sub {
@@ -1822,7 +1824,7 @@ form.form-search button {
   height: 40px;
   padding: 0 25px;
   margin-bottom: 16px;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   font-family: "DM Sans";
   letter-spacing: 1.2px;
   font-size: 13px;
@@ -1837,7 +1839,7 @@ form.form-search button {
 
 .widget-tabs.style-1 .widget-menu-tab .item-title:hover,
 .widget-tabs.style-1 .widget-menu-tab .item-title.active {
-  background-color: #f9b101;
+  background-color: #b5940f;
   color: #fff;
 }
 
@@ -2067,7 +2069,7 @@ form.form-search button {
 .wg-location .content .number {
   font-weight: 600;
   font-size: 35px;
-  color: #c6ac83;
+  color: #b5940f;
   line-height: 53px;
   letter-spacing: 0.4px;
 }
@@ -2128,7 +2130,7 @@ form.form-search button {
   transform: translateX(-50%);
   width: 90px;
   height: 1px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .wg-location.style-1 .widget-tabs .content .number {
@@ -2137,7 +2139,7 @@ form.form-search button {
   font-size: 25px;
   line-height: 50px;
   letter-spacing: 0.5px;
-  color: #c6ac83;
+  color: #b5940f;
   margin-bottom: 2px;
 }
 
@@ -2158,7 +2160,7 @@ form.form-search button {
   transform: translateX(-50%);
   width: 90px;
   height: 1px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .wg-location.style-1 .widget-tabs .content ul p {
@@ -2268,7 +2270,7 @@ form.form-search button {
   height: 1px;
   top: 15px;
   left: 0;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .gallery-item .content .wrap .icon::before {
@@ -2278,7 +2280,7 @@ form.form-search button {
   height: 31px;
   left: 15px;
   top: 0;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .gallery-item .content .wrap .icon:hover::before,
@@ -2309,7 +2311,7 @@ form.form-search button {
   content: "";
   width: 8px;
   height: 8px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   top: 40%;
   right: -8px;
   transform: rotate(45deg);
@@ -2319,7 +2321,7 @@ form.form-search button {
   font-weight: 500;
   font-size: 60px;
   line-height: 80px;
-  color: #c6ac83;
+  color: #b5940f;
   letter-spacing: 3px;
 }
 
@@ -2458,7 +2460,7 @@ form.form-search button {
   line-height: 26px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #c6ac83;
+  color: #b5940f;
   margin-bottom: 1px;
 }
 
@@ -2472,7 +2474,7 @@ form.form-search button {
   content: "";
   width: 8px;
   height: 8px;
-  background-color: #f9b101;
+  background-color: #b5940f;
   transform: translateY(-50%) rotate(45deg);
   top: 50%;
   right: -20px;
@@ -2489,7 +2491,7 @@ form.form-search button {
 .portfolio-item .content .wrap .dot {
   width: 8px;
   height: 8px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   transform: translateY(-50%) rotate(45deg);
   margin: auto;
   margin-top: 22px;
@@ -2644,7 +2646,7 @@ form.form-search button {
   content: "";
   width: 8px;
   height: 8px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   transform: translateY(-50%) rotate(45deg);
   left: 50%;
   top: -20px;
@@ -2692,7 +2694,7 @@ form.form-search button {
 .swiper-container
   .swiper-pagination.style-dot
   .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background-color: #c6ac83;
+  background-color: #b5940f;
   width: 9px;
   height: 9px;
 }
@@ -2717,7 +2719,7 @@ form.form-search button {
   right: 28px;
   top: -26px;
   bottom: -27px;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   z-index: 1;
 }
 
@@ -2788,7 +2790,7 @@ form.form-search button {
 .portfolio-item.style-carousel.type3:hover .content.box-line-under::after {
   position: absolute;
   content: "";
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   top: 26px;
   left: -28px;
   bottom: 27px;
@@ -3014,7 +3016,7 @@ form.form-search button {
   top: -10px;
   left: -10px;
   border-radius: 50%;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   opacity: 0;
   visibility: hidden;
   transform: scale(1.1);
@@ -3043,7 +3045,7 @@ form.form-search button {
   font-weight: 600;
   font-size: 25px;
   line-height: 35px;
-  color: #c6ac83;
+  color: #b5940f;
   text-transform: uppercase;
   letter-spacing: 1.4px;
 }
@@ -3091,12 +3093,12 @@ form.form-search button {
 }
 
 .button-style-arrow:hover {
-  background-color: #f9b101;
+  background-color: #b5940f;
 }
 
 .button-style-arrow::after {
   font-size: 20px !important;
-  color: #f9b101 !important;
+  color: #b5940f !important;
 }
 
 .button-style-arrow:hover::after {
@@ -3166,7 +3168,7 @@ form.form-search button {
 }
 
 .road-map .button-style-arrow {
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   top: 48.7%;
   width: 78px !important;
   height: 78px !important;
@@ -3189,7 +3191,7 @@ form.form-search button {
   content: "";
   width: 12px;
   height: 12px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   top: 50.5%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(45deg);
@@ -3216,7 +3218,7 @@ form.form-search button {
   font-family: "CormorantInfant";
   font-style: italic;
   letter-spacing: 3px;
-  color: #c6ac83;
+  color: #b5940f;
   margin-bottom: 4px;
   padding-left: 10px;
 }
@@ -3236,7 +3238,7 @@ form.form-search button {
 }
 
 .road-map-item .content .title a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .road-map-item .content p {
@@ -3267,7 +3269,7 @@ form.form-search button {
   content: "";
   width: 25px;
   height: 25px;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   background-color: #0e1618;
   top: 50.8%;
   left: 50%;
@@ -3373,7 +3375,7 @@ a.mapboxgl-ctrl-logo {
   font-size: 40px;
   letter-spacing: 0.5px;
   line-height: 50px;
-  color: #c6ac83;
+  color: #b5940f;
   margin-bottom: 18px;
 }
 
@@ -3433,7 +3435,7 @@ a.mapboxgl-ctrl-logo {
   font-size: 18px;
   content: "\e91d";
   font-weight: 400;
-  color: #c6ac83;
+  color: #b5940f;
   font-family: "icomoon";
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -3448,7 +3450,7 @@ a.mapboxgl-ctrl-logo {
 
 .flat-accordion .flat-toggle .toggle-content {
   display: none;
-  border-top: 1px solid #c6ac83;
+  border-top: 1px solid #b5940f;
   padding-top: 28px;
   padding-bottom: 31px;
 }
@@ -3590,7 +3592,7 @@ a.mapboxgl-ctrl-logo {
   font-family: "DM Sans";
   font-size: 15px;
   line-height: 25px;
-  color: #c6ac83;
+  color: #b5940f;
   text-transform: uppercase;
   letter-spacing: 3px;
   margin-bottom: 3px;
@@ -3613,7 +3615,7 @@ a.mapboxgl-ctrl-logo {
   height: 1px;
   bottom: -15px;
   left: 0;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .chef-item .name a {
@@ -3621,7 +3623,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .chef-item .name a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .chef-item p {
@@ -3636,7 +3638,7 @@ a.mapboxgl-ctrl-logo {
   right: -32px;
   bottom: -31px;
   left: 30px;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   z-index: -1;
   animation: to-bottom 7s infinite linear;
 }
@@ -3653,7 +3655,7 @@ a.mapboxgl-ctrl-logo {
   line-height: 55px;
   letter-spacing: 0.9px;
   font-style: italic;
-  color: #c6ac83;
+  color: #b5940f;
   text-align: center;
   padding: 0 15px;
   width: 100%;
@@ -3703,7 +3705,7 @@ a.mapboxgl-ctrl-logo {
   font-weight: 600;
   font-size: 45px;
   line-height: 60px;
-  color: #c6ac83;
+  color: #b5940f;
   text-transform: uppercase;
   margin-top: 17px;
   letter-spacing: 4.5px;
@@ -3728,7 +3730,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .widget-menu-tab.stye-full li.active {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .widget-menu-tab.stye-full li span {
@@ -3742,7 +3744,7 @@ a.mapboxgl-ctrl-logo {
   width: 12px;
   width: 7px;
   height: 7px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   top: 50%;
   left: -17px;
   transform: translate(-50%, -50%) rotate(45deg);
@@ -3753,7 +3755,7 @@ a.mapboxgl-ctrl-logo {
   content: "";
   width: 7px;
   height: 7px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   top: 50%;
   right: -20px;
   transform: translate(-50%, -50%) rotate(45deg);
@@ -3782,7 +3784,7 @@ a.mapboxgl-ctrl-logo {
 .page-menu1-wrap .right .title::before {
   position: absolute;
   content: "";
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   top: 50%;
   left: 0;
   width: 19px;
@@ -3796,7 +3798,7 @@ a.mapboxgl-ctrl-logo {
   content: "";
   width: 12px;
   height: 12px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   top: 50%;
   left: 0;
   transform: translate(50%, -50%) rotate(45deg);
@@ -4041,7 +4043,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .wg-about-hour .content .author a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .wg-about-hour .content ul li:last-child {
@@ -4095,7 +4097,7 @@ a.mapboxgl-ctrl-logo {
   height: 2px;
   left: -80px;
   top: 41%;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .coming-soon-wrap .heading::after {
@@ -4105,7 +4107,7 @@ a.mapboxgl-ctrl-logo {
   height: 2px;
   right: -81px;
   top: 49%;
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .coming-soon-wrap .desc {
@@ -4113,7 +4115,7 @@ a.mapboxgl-ctrl-logo {
   font-style: italic;
   font-size: 40px;
   line-height: 60px;
-  color: #c6ac83;
+  color: #b5940f;
   margin-top: 23px;
   margin-bottom: 16px;
 }
@@ -4142,7 +4144,7 @@ a.mapboxgl-ctrl-logo {
   content: "";
   width: 8px;
   height: 8px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   top: 57%;
   right: -3px;
   transform: translateY(-50%) rotate(45deg);
@@ -4157,7 +4159,7 @@ a.mapboxgl-ctrl-logo {
   font-weight: 600;
   font-size: 75px;
   line-height: 100px;
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .featured-countdown .countdown__label {
@@ -4263,7 +4265,7 @@ a.mapboxgl-ctrl-logo {
 
 .wg-service-slider .icon {
   font-size: 59px;
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .wg-service-slider .heading-section {
@@ -4292,7 +4294,7 @@ a.mapboxgl-ctrl-logo {
   left: 50%;
   width: 45.5%;
   transform: translateX(-50%);
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
 }
 
 .wg-service-slider .bottom {
@@ -4334,7 +4336,7 @@ a.mapboxgl-ctrl-logo {
   font-size: 30px;
   line-height: 40px;
   letter-spacing: 0.6px;
-  color: #c6ac83;
+  color: #b5940f;
   margin-bottom: 35px;
 }
 
@@ -4345,7 +4347,7 @@ a.mapboxgl-ctrl-logo {
 .services-detail-content .slider-wrap .button-style-arrow {
   top: 20%;
   right: -114px;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
 }
 
 .services-detail-content .slider-wrap .button-style-arrow.swiper-button-prev {
@@ -4399,7 +4401,7 @@ a.mapboxgl-ctrl-logo {
 
 .services-detail-item:hover .content .wrap {
   padding: 30px 0 30px 0;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
 }
 
 .services-detail-item .title {
@@ -4422,7 +4424,7 @@ a.mapboxgl-ctrl-logo {
   content: "";
   width: 8px;
   height: 8px;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   transform: translateY(-50%) rotate(45deg);
   top: 49%;
   right: -23px;
@@ -4433,14 +4435,14 @@ a.mapboxgl-ctrl-logo {
 }
 
 .services-detail-item .title a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .services-detail-item .content .text {
   font-family: "DM Sans";
   font-size: 17px;
   line-height: 35px;
-  color: #c6ac83;
+  color: #b5940f;
   letter-spacing: 0.3px;
 }
 
@@ -4503,7 +4505,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .wg-shop .top .option svg path {
-  fill: #c6ac83;
+  fill: #b5940f;
 }
 
 .wg-shop .select.t1::after {
@@ -4542,7 +4544,7 @@ a.mapboxgl-ctrl-logo {
   width: 112px;
   height: 40px;
   color: #fff;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   font-family: "DM Sans";
   font-weight: 500;
   font-size: 13px;
@@ -4560,7 +4562,7 @@ a.mapboxgl-ctrl-logo {
   width: 112px;
   height: 39px;
   color: #fff;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   font-family: "DM Sans";
   font-weight: 500;
   font-size: 13px;
@@ -4611,7 +4613,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .shop-item .box-icon i {
-  color: #c6ac83;
+  color: #b5940f;
   font-size: 27px;
 }
 
@@ -4623,7 +4625,7 @@ a.mapboxgl-ctrl-logo {
 .button-wishlist .icon:before {
   content: "\e900";
   font-family: "icomoon";
-  color: #c6ac83;
+  color: #b5940f;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -4707,7 +4709,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .shop-item .name a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .shop-item .rating {
@@ -4806,7 +4808,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .cart-item .content .name a:hover {
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .cart-item .content.style-1 {
@@ -4819,7 +4821,7 @@ a.mapboxgl-ctrl-logo {
   top: 0;
   right: -3px;
   font-weight: 700;
-  color: #c6ac83;
+  color: #b5940f;
   cursor: pointer;
 }
 
@@ -4836,7 +4838,7 @@ a.mapboxgl-ctrl-logo {
   font-size: 17px;
   line-height: 25px;
   letter-spacing: 0.5px;
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .subtotal .title {
@@ -4872,7 +4874,7 @@ a.mapboxgl-ctrl-logo {
 
 .sidebar-item.cart .bottom a i {
   font-size: 20px;
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .wg-shop .sidebar-item.cart > .content {
@@ -4902,15 +4904,15 @@ a.mapboxgl-ctrl-logo {
 }
 
 .noUi-connect {
-  background: #c6ac83 !important;
-  border-top: 1px solid #c6ac83;
+  background: #b5940f !important;
+  border-top: 1px solid #b5940f;
 }
 
 #range-two-val.noUi-horizontal .noUi-handle {
   width: 9px;
   height: 9px;
   border-radius: 0;
-  background-color: #c6ac83;
+  background-color: #b5940f;
   border: none;
   box-shadow: none;
   top: 0;
@@ -4927,7 +4929,7 @@ a.mapboxgl-ctrl-logo {
 .noUi-handle:active {
   width: 17px !important;
   height: 17px !important;
-  border: 4px solid #c6ac83 !important;
+  border: 4px solid #b5940f !important;
   right: -17px !important;
 }
 
@@ -4945,17 +4947,17 @@ a.mapboxgl-ctrl-logo {
   font-size: 13px;
   line-height: 38px;
   background-color: transparent;
-  border: 1px solid #c6ac83;
+  border: 1px solid #b5940f;
   color: #fff;
   letter-spacing: 2px;
 }
 
 .sidebar-item.filter .bottom > a:hover {
-  background-color: #c6ac83;
+  background-color: #b5940f;
 }
 
 .sidebar-item.filter .total {
-  color: #c6ac83;
+  color: #b5940f;
   font-family: "DM Sans";
   font-size: 17px;
   font-weight: 400;
@@ -5091,7 +5093,7 @@ a.mapboxgl-ctrl-logo {
   font-size: 18px;
   line-height: 45px;
   text-align: center;
-  color: #c6ac83;
+  color: #b5940f;
   cursor: pointer;
 }
 
@@ -5104,7 +5106,7 @@ a.mapboxgl-ctrl-logo {
   font-size: 18px;
   line-height: 45px;
   text-align: center;
-  color: #c6ac83;
+  color: #b5940f;
   cursor: pointer;
 }
 
@@ -5125,7 +5127,7 @@ a.mapboxgl-ctrl-logo {
 
 .add-wishlist a i {
   margin-right: 9px;
-  color: #c6ac83;
+  color: #b5940f;
 }
 
 .wg-shop-detail .content-inner .more-infor ul li {
@@ -5171,7 +5173,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .wg-related .button-style-arrow:hover {
-  background-color: #f9b101 !important;
+  background-color: #b5940f !important;
 }
 
 .wg-related .button-style-arrow.swiper-button-prev {
@@ -5217,7 +5219,7 @@ a.mapboxgl-ctrl-logo {
   font-size: 75px;
   line-height: 90px;
   text-transform: uppercase;
-  color: #c6ac83;
+  color: #b5940f;
   letter-spacing: 7.5px;
   margin-bottom: 22px;
   margin-top: 60px;
